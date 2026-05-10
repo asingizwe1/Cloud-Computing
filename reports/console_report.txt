@@ -1,0 +1,84 @@
+=======================================================
+          PATENT INTELLIGENCE REPORT
+=======================================================
+  Total Patents          : 9,434,703
+  Total Inventors        : 4,294,034
+  Total Companies        : 572,495
+  Year Range             : 1976 - 2025
+
+-------------------------------------------------------
+  TOP 10 INVENTORS
+-------------------------------------------------------
+   1. Shunpei Yamazaki                      6787 patents [JP]
+   2. Kia Silverbrook                       4778 patents [AU]
+   3. Tao Luo                               4490 patents [US]
+   4. Jonathan P. Ive                       2947 patents [US]
+   5. Junyi Li                              2881 patents [US]
+   6. Kangguo Cheng                         2835 patents [US]
+   7. Frederick E. Shelton, IV              2723 patents [US]
+   8. Peter Gaal                            2554 patents [US]
+   9. Duncan Robert Kerr                    2534 patents [US]
+  10. Bartley K. Andre                      2478 patents [US]
+
+-------------------------------------------------------
+  TOP 10 COMPANIES
+-------------------------------------------------------
+   1. SAMSUNG DISPLAY CO., LTD.                175036 patents
+   2. International Business Machines Corporat 164084 patents
+   3. CANON KABUSHIKI KAISHA                    91332 patents
+   4. SONY GROUP CORPORATION                    62917 patents
+   5. Fujitsu Limited                           56347 patents
+   6. Kabushiki Kaisha Toshiba                  53609 patents
+   7. Intel Corporation                         53219 patents
+   8. General Electric Company                  52044 patents
+   9. LG ELECTRONICS INC.                       50000 patents
+  10. HITACHI, LTD.                             46130 patents
+
+-------------------------------------------------------
+  TOP 10 COUNTRIES
+-------------------------------------------------------
+   1. US          5,152,235 patents
+   2. JP          1,596,388 patents
+   3. DE            632,808 patents
+   4. CN            503,914 patents
+   5. KR            441,206 patents
+   6. TW            326,572 patents
+   7. GB            295,191 patents
+   8. CA            268,412 patents
+   9. FR            253,366 patents
+  10. CH            122,076 patents
+
+-------------------------------------------------------
+  YEARLY TREND (last 10 years)
+-------------------------------------------------------
+  2025:     377,953 patents
+  2024:     372,279 patents
+  2023:     348,355 patents
+  2022:     358,662 patents
+  2021:     362,028 patents
+  2020:     388,847 patents
+  2019:     391,100 patents
+  2018:     339,994 patents
+  2017:     351,403 patents
+  2016:     333,583 patents
+
+-------------------------------------------------------
+  FASTEST ACCELERATING COMPANIES (2015-2025 vs 2000-2014)
+-------------------------------------------------------
+   1. Microsoft Technology Licensing, LLC      24632.0x
+   2. EMC IP Holding Company LLC               7365.0x
+   3. Capital One Services, LLC                6187.0x
+   4. Nokia Technologies Oy                    5708.0x
+   5. Hewlett Packard Enterprise Development L 5256.0x
+
+-------------------------------------------------------
+  USA vs CHINA (most recent years)
+-------------------------------------------------------
+  2025 CN:     63,405 patents
+  2025 US:    182,725 patents
+  2024 CN:     56,581 patents
+  2024 US:    185,458 patents
+
+=======================================================
+  END OF REPORT
+=======================================================
