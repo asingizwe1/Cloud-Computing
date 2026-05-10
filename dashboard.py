@@ -57,16 +57,16 @@ year_range = st.sidebar.slider("Year range", 1976, 2025, (2000, 2025))
 # ── Title ─────────────────────────────────────────────────
 st.title("🔬 Global Patent Intelligence Dashboard")
 st.caption("Data: USPTO PatentsView Granted Patent Disambiguated Data")
-
+st.info("📊 Dataset: 9,434,703 patents | 4,294,034 inventors | 572,495 companies | 1976–2025")
 # ── KPIs ──────────────────────────────────────────────────
 try:
     total     = simple_query("SELECT COUNT(*) AS n FROM patents")["n"].iloc[0]
     inv_count = simple_query("SELECT COUNT(*) AS n FROM inventors")["n"].iloc[0]
     co_count  = simple_query("SELECT COUNT(*) AS n FROM companies WHERE name IS NOT NULL")["n"].iloc[0]
     c1, c2, c3 = st.columns(3)
-    c1.metric("Total Patents",      f"{int(total):,}")
-    c2.metric("Unique Inventors",   f"{int(inv_count):,}")
-    c3.metric("Unique Companies",   f"{int(co_count):,}")
+    c1.metric("Total Patents (sample)",  f"{int(total):,}")
+    c2.metric("Top Inventors Tracked",   f"{int(inv_count):,}")
+    c3.metric("Top Companies Tracked",   f"{int(co_count):,}")
 except Exception as e:
     st.error(f"Database error: {e}")
     st.stop()
