@@ -1,0 +1,18 @@
+# Raw and large data files
+data/raw/
+data/clean/
+data/db/patents.db
+F:/Temp/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+venv/
+
+# Large CSVs in reports
+reports/*.csv
